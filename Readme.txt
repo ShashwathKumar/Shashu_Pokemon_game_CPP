@@ -2,7 +2,7 @@ The main file to be run is AAEXP1.cpp
 AAEXP1.cpp includes just one header file which is named after my nickname - SHASHU.cpp
 
 This project contains some beautiful animations and an entertaining game of Pokemon battle
-with assorted graphic display.
+with assorted graphic display. On a whole the project has 7000 compiled lines.
 
 The header file structure for SHASHU.cpp are as follows:
 
